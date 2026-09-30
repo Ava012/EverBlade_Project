@@ -1,0 +1,27 @@
+*.txt
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+
+# Generated project files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
